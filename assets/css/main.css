@@ -1,0 +1,10 @@
+@import "./reset.css";
+@import "./_header.css";
+/* @import "./_modal.css"; */
+@import "./_slider.css";
+@import "./_movie.css";
+html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+    font-family: "Poppins";
+}

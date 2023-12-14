@@ -1,0 +1,13 @@
+.them a {
+    background-color: white;
+    color: #3085C3;
+    border: 1px solid #3085C3;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+.them a:hover {
+    background-color: #3085C3;
+    color: white;
+}

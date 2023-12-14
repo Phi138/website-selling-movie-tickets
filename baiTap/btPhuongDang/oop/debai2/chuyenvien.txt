@@ -1,0 +1,16 @@
+Mã số chuyên viên:62131600
+Họ tên chuyên viên: Dang Thi Phuong
+Giới tính chuyên viên: Nữ
+Ngày sinh của chuyên viên: 2007-02-01
+Đơn vị công tác: Nha Trang
+Chức vụ chuyên viên: Trưởng phòng
+Số sáng kiến: 3
+Tiền thưởng: 2500000
+Mã số chuyên viên:62131666
+Họ tên chuyên viên: Dang Thi Phuong
+Giới tính chuyên viên: Nam
+Ngày sinh của chuyên viên: 2017-02-16
+Đơn vị công tác: Nha Trang
+Chức vụ chuyên viên: Thư kí
+Số sáng kiến: 4
+Tiền thưởng: 2100000

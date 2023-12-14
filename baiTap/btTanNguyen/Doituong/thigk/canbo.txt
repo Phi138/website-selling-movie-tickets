@@ -1,0 +1,30 @@
+
+
+Họ tên: Kiều
+giới tính nam
+ngày sinh 20
+Đơn vị công tác :ĐHNT
+Loại cán bộ:giảng viên
+Tiền thưởng: 90000000
+
+Họ tên: Tân
+giới tính Nữ
+ngày sinh 20
+Đơn vị công tác :ĐHNT
+Loại cán bộ:giảng viên
+Tiền thưởng: 75000000
+
+Họ tên: Minh
+giới tính Nữ
+ngày sinh 20
+Đơn vị công tác :ĐHNT
+Loại cán bộ:chuyên viên
+Tiền thưởng: 2500000
+
+Họ tên: Nguy
+giới tính nam
+ngày sinh 20
+Đơn vị công tác :ĐHNT
+Loại cán bộ:giảng viên
+Tiền thưởng: 75000000
+

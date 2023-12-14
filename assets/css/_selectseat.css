@@ -1,0 +1,89 @@
+
+
+.contain {
+  /* margin-top: 300px;  */
+  display: flex;
+}
+input[type="checkbox"] {
+    position: relative;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: 1px solid #ccc;
+    background-color: #fff;
+  }
+  
+  input[type="checkbox"]:checked {
+    background-color: green;
+    border-color: green;
+  }
+  
+  input[type="checkbox"]:checked:after {
+    content: "\2713";
+    display: block;
+    font-size: 14px;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  input[type="checkbox"]:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  .seat-guide {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Thêm thuộc tính này */
+    margin-top: 20px;
+}
+
+table {
+    margin-top: 10px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+thead {
+    background-color: #f2f2f2;
+}
+
+th, td {
+    padding: 8px 16px;
+}
+
+.seat {
+    width: 20px;
+    height: 20px;
+    margin: 2px;
+    border-radius: 2px;
+}
+
+.available {
+    background-color:white
+    ;
+    border: 1px solid;
+}
+
+.reserved {
+    background-color: gray;
+}
+
+.selected {
+    background-color: green;
+}
+.how {
+  
+  background-color: #F8F9FA;
+  border: 1px solid #CED4DA;
+  
+  border-radius: 5px;
+}
+

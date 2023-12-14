@@ -1,0 +1,35 @@
+Mã số sinh viên:6
+Họ tên sinh viên: Kiều
+Địa chỉ sinh viên: 23
+Giới tính sinh viên: nam
+Học vị của giảng viên: 
+Số năm công tác của giảng viên: 3
+Tiền thưởng: 4050000
+Mã số sinh viên:6
+Họ tên sinh viên: Kiều
+Địa chỉ sinh viên: 23
+Giới tính sinh viên: nam
+Học vị của giảng viên: Thạc sĩ
+Số năm công tác của giảng viên: 3
+Tiền thưởng: 4050000
+Mã số sinh viên:6
+Họ tên sinh viên: Kiều
+Địa chỉ sinh viên: 23
+Giới tính sinh viên: nam
+Học vị của giảng viên: Thạc sĩ
+Số năm công tác của giảng viên: 3
+Tiền thưởng: 4050000
+Mã số sinh viên:6
+Họ tên sinh viên: Kiều
+Địa chỉ sinh viên: 23
+Giới tính sinh viên: nam
+Học vị của giảng viên: Thạc sĩ
+Số năm công tác của giảng viên: 3
+Tiền thưởng: 4050000
+Mã số sinh viên:6
+Họ tên sinh viên: Kiều
+Địa chỉ sinh viên: 23
+Giới tính sinh viên: nam
+Học vị của giảng viên: Thạc sĩ
+Số năm công tác của giảng viên: 3
+Tiền thưởng: 4050000

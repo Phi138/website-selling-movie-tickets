@@ -1,0 +1,43 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #FF2A2A;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #FF2A2A;
+    color: white;
+}
+.header table {
+    border: 2px solid #FF2A2A;
+    width: 100%;
+}
+.header td {
+    text-align: center;
+}
+.container {
+    display: flex;
+}
+.menu {
+    flex: 0 0 200px;
+}
+.noiDung {
+    flex: 1;
+    margin: 0px 20px;
+}
+td{
+    padding: 10px;
+}
+.xemChitiet{
+    background-color: #FF2A2A;
+}
+.ttdatve{
+    color:#FF2A2A;
+}

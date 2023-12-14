@@ -1,0 +1,7 @@
+Mã số nql:6
+Họ tên nql: Tân
+giới tính nql: Nữ
+Ngày sinh nql: 20
+Chức vụ của nql: Phó phòng
+Hệ số chức vụ của nql: 3
+Tiền lương: 90000000

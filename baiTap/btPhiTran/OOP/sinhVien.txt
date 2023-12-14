@@ -1,0 +1,7 @@
+Mã số: 123456
+Họ tên: tranlevanphi
+Địa chỉ: 77/49 Nguyễn Chích
+Giới tính: Nam
+Lớp: 62CNTT1
+Ngành học: CNTT
+Tiền thưởng: 1000000

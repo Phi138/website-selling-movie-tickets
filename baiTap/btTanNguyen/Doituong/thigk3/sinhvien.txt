@@ -1,0 +1,22 @@
+
+Mã số sinh viên:6
+Họ tên sinh viên: Kiều
+Địa chỉ sinh viên: 23
+Giới tính sinh viên: nam
+Lớp học của sinh viên: 62cntt
+Ngành học của sinh viên: Xây dựng
+Tiền thưởng: 500000
+Mã số sinh viên:6
+Họ tên sinh viên: Kiều
+Địa chỉ sinh viên: 23
+Giới tính sinh viên: nam
+Lớp học của sinh viên: 62cntt
+Ngành học của sinh viên: Xây dựng
+Tiền thưởng: 500000
+Mã số sinh viên:6
+Họ tên sinh viên: Kiều
+Địa chỉ sinh viên: 23
+Giới tính sinh viên: nam
+Lớp học của sinh viên: 62cntt
+Ngành học của sinh viên: Xây dựng
+Tiền thưởng: 500000

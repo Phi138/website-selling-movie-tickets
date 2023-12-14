@@ -1,0 +1,14 @@
+Mã số NKH:6
+Họ tên NKH: Tân
+Ngày sinh NKH: nam
+Giới tính NKH: 20
+Bậc lương của NKH: 5
+Số bài báo của NKH: 3
+Tiền luong: 0
+Mã số NKH:6
+Họ tên NKH: Tân
+Ngày sinh NKH: Nữ
+Giới tính NKH: 20
+Bậc lương của NKH: 5
+Số bài báo của NKH: 3
+Tiền luong: 1800000000000000

@@ -1,0 +1,21 @@
+Mã số sinh viên:62131612
+Họ tên sinh viên: Hà
+Địa chỉ sinh viên: Bắc Giang
+Giới tính sinh viên: Nữ
+Lớp học của sinh viên: 62xd
+Ngành học của sinh viên: Xây dựng
+Tiền thưởng: 500000
+Mã số sinh viên:62131612
+Họ tên sinh viên: Hà
+Địa chỉ sinh viên: Bắc Giang
+Giới tính sinh viên: Nam
+Lớp học của sinh viên: 62xd
+Ngành học của sinh viên: Xây dựng
+Tiền thưởng: 500000
+Mã số sinh viên:62131612
+Họ tên sinh viên: Hùng
+Địa chỉ sinh viên: Nha Trang
+Giới tính sinh viên: Nam
+Lớp học của sinh viên: 62nna
+Ngành học của sinh viên: NNA
+Tiền thưởng: 750000

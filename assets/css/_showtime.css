@@ -1,0 +1,165 @@
+.calendar-container {
+    overflow-x: auto;
+    white-space: nowrap;
+    /* margin-top: 30rem; */
+}
+
+.calendar {
+    display: inline-block;
+    width: 100%;
+    white-space: nowrap;
+}
+
+input[type="radio"] {
+    display: none;
+}
+
+.day-container label {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+input[type="radio"]:checked + label {
+    background-color: #333;
+}
+.calendar-container {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 30rem; */
+  }
+  
+.calendar {
+    text-align: center;
+}
+
+.days {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.calendar-container {
+    display: flex;
+    justify-content: center;
+}
+
+.calendar {
+    text-align: center;
+}
+
+.days {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.buttons {
+    margin-top: 10px;
+}
+
+.calendar-container {
+    display: flex;
+    justify-content: center;
+}
+
+.calendar {
+    text-align: center;
+}
+
+.days {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.buttons {
+    margin-top: 10px;
+}
+
+
+.calendar-container {
+    display: flex;
+    justify-content: center;
+}
+
+.calendar {
+    text-align: center;
+}
+
+.month {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FF2A2A;
+}
+
+.days {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.day-container {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.month {
+    display: flex;
+    align-items: center;
+}
+
+.prev-button,
+.next-button {
+    display: inline-block;
+    width: 400px;
+    height: 20px;
+    background-color: transparent;
+    text-decoration: none;
+    margin: 0 5px;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 10px 20px;
+    color: black;
+}
+
+.date {
+    text-align: left;
+}
+.month-text span {
+    font-size: 100px;
+  }
+.date .month-text {
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+.date .days {
+    font-size: 1.2em;
+}
+.fade-in {
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+

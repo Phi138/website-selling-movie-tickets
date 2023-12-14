@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 500px;
+    background: #d0e7d2;
+}
+
+.container h2 {
+    text-align: center;
+    background: #419197;
+    padding: 5px 0;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 15px 17px;
+}
+
+form .gr-ip {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+form .gr-ip label {
+    min-width: 120px;
+}
+
+form p {
+    margin-top: 15px;
+}
+
+form span {
+    color: red;
+    margin: 0 3px;
+}
+form .gr-ip:nth-child(2) span,
+form .gr-ip:nth-child(3) span {
+    visibility: hidden;
+}
+form input[type="submit"] {
+    margin-left: -35px;
+}
+input[class="content"] {
+    background: #ffbfbf;
+}
